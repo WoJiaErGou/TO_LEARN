@@ -14,4 +14,3 @@ t2.start()
 t1.join()
 t2.join()
 print('%s ended.' % threading.current_thread().name)
-# 测试测试测试
